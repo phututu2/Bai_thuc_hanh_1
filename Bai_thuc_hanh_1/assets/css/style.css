@@ -1,0 +1,85 @@
+html, body{
+    background-color: #f3e9ff;
+    font-family: Arial, sans-serif;
+}
+
+.header{
+    text-align: center;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: large;
+    color: #f7f2fb;
+    white-space: pre-line;
+}
+
+.header img{
+    width: 20%;
+    height: 20%;
+    margin-bottom: 50px;
+}
+
+.header h1{
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    color: #5731ca;
+}
+.box{
+    background-color: #774ad8;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 23%;
+    margin-right: 25%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.HTML-CSS{
+    white-space: pre-line;
+    color:white;
+    text-align: left;
+    margin: 15px;
+}
+
+.color-text{
+    color: #fcca71;
+    padding: 10px;
+}
+
+.highlight{
+    background-color: #fcecb5;
+    color: #270a3b;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.margin{
+    margin: 10px;
+}
+
+.download{
+    background-color: #F9C927;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 620px;
+    margin-right:620px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.footer{
+    color: #8D7F99;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
